@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec59873e49e74c2d4d53a65fcd18a4942a315b76">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_780c458a368e96d2e48ffcf1e3b58a2afc927e2a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ae63fa87d1dca092eb386a9b148a1d5d14f71253">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.1_10e76f42dc6087b07510a9ef5f9d533ed5cfcb1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="13270ae22369a0d50cb6c560aeca4056f025cae6">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.1_283fdaddd9a04f3e81680c822ad1350d0fb6e145\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6dcbd3a56843f14553715f22b331d017f0fabc12">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.1_2ff2dfc1147650d9549bd815a7340b62569d2507\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_f780d0bb8efb441ea675e0d2e752cafa767e71aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="beecf0c3e72517a9f684ac49dc836b347b80de26">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.1_7c2398593ff50dedf59ac1e7821c3e85877de90e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_4146e4a07088977a40e27d43f3d9eeaccb96aa01\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_37a61513b211d46655fc8a186009c3a3994db27c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="93779beb83069c13f278b652b2206f1f24850705">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.1_e40bc9b02d42efea2a459a7bb50c39fec4781802\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e711046a40e1562d85854ee09cd0a05254cb6463">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.1_80b2773b58150067ffb3c745354337ab8efd12ac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cd6820c177093398f096088a6f4abc3014588e65">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.1_5034aa5b8d3f2eec5eefaddd2f55e2d18d5f65cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="20e4578cdf97486712a260ec34582334083e3a07">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.1_266d4fdfce11d7f8ad5899239f1234e9fa520645\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a064025a115398c5ad4732f536548dd36b7283d6">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.1_b70f68ba45198b98c092f3e508fcefc4b6741eab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_944badf048ef3b444b3a88a45635f2289ea554fb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a2d2b21282d89df001d0ac96671a33bd8c0e83f8">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.1_ce586f3cb77a212a6e1a3c31959fdb3374400488\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="19a8ef100d7456c2fde021851a40506c86d14821">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.1_e4da67839c5876ad6bf2ca94f1c075a6ce601353\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8751850c44515d845de08e317733f1da49e6426a">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.1_6d13961ecbce0a6c3e149b594af4e03753e434f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="73f7a1fbc96ecb7652c004e5b2ed306688a5a84c">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.1_3bef3b8a8dadb0fc223e3f716b9334663651f849\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d502e4a55039c7b920b5ef5f89d23060304ff8c">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.1_88c1c40503d071a51574d3b0b6808d0cad144a34\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b94d84286db4c24557b661015bc67497444a4071">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.1_39389f035d1a6bed5e051f47868c1031f3b49b20\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eaa6b0fb1cad74c895845610bbfc8737324556e6">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.1_3376213df87b6f8b294598d940afe18c69090f63\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aa3f026e88b5606be5cb0c7be5cf224489ede2bf">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.1_53f629a218ed3f32c626872c96006138e51725a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_47b2f3928e3e52e9e0e49730d0eb30b73b0ef8a8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="34375e2adbbe36bc39f2b5fae55d549b9efc77e6">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.1_6306d648a82dccc1b974d2024fd071902afe8979\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f386000f91af644f751d96ab4c26be945a7dbce4">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.1_5ba3d9794517a696b09dbb313aaa363aa5ef6e37\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_980000271ced638ce8b8b9b9b4cf3eafbcb48bdc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0505314a91da9985e336c17088410f4c7085690">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.1_1e6da177459d70fdbfbb97c66cf55278a82abf9c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_dc9c1b38b7dc6eb318204b575625312434d94cd9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffc3c6fc861f04d45835c9eac5cec10acc180d55">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.1_76984a7f21990c608e20d4b76c0ca86ff3d6e0fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8b563033681919f54882d4605da10861bda6974">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.1_9421f55b18bdfcba7458265d6c7b745357243062\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d01902a80cb52c283941b014b1ad4d466402ac0a">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.1_d3f8a275e959c38dcede2149dff8d6b487ecf75f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="60f1c7b6953c6c82c4733b2cd67713835ed4fc39">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.1_dad97b1d7a5bfeef352777eeaf978bfff93e6525\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_80e2a7aeb3f5fba46ec9f3b0873931760fad2253\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ad3e3e8810a3ea03417d19012169034dc51d021">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.1_abe99f4ca1981d9064b153d3b34da35cf01e7ec1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e7895d06e98e7252de7d08c49591e4ca92a570a9">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.1_267e2c01e60d5b110f52f41507222eafa6eeb0db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="df7b50ec047648cc71075ec1ee24d3c9cf337e41">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.1_207b1292c7741d9ccc9a2fbf827934fe403b7ce1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1e972292f7c6bdc49935925da64f9f06d5f8b3ac">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.1_f5e65ff083f16821e26f4260af14478a96d63933\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bce13b18d5b0549a6126d6176a36cf3e53a83f3f">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.1_72710ae3f72bffb8af7349f40a23045e1cbabc4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="af9d57d713e05d6da464c0d009325e235585f5ea">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.1_a382f408b09868148ebe4aa62180b74dcce0cdd5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="41216638a24a3c78b00f27b4f7ea33032c185106">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.1_b2b3db56daac71f85eb8ca0664196f9af73d17f7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b49f3f1bddb0201ac336b50bb6c66040d26f6d0d">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.1_e7be68088dc9d67864fec7c0b3c2b43ef6fe4210\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="632cf2bb01c851b401accc577991865c36cc1fae">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.1_bac3bfb7ff6a004e192106935911d8e4af36b2ef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_ad6d62a8240ede76aa802e4bb427a70f4c59a71f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="70367429adff5373838e4e58da3a487554b74abc">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_05ed18e04c50188f808acef3cdffe601708ca992\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2a816e2891e93c97db7be2bbbf941a31bb64a63e">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.1_5f6b10afdfaa81e14b3902623fb686be940609d3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cc67c4553076c53f31a79fb73bce967bfcfe66d8">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.1_c4e22d7d66e74e2b7ce691e5e15eafa79bd1af7b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bc38f0704a08802ebc398ecf13a0c9b2072dc1e5">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.1_6d2d5d67fe449a9a3db1d291e8ad460674883fe3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a71cfcfe6d690ee7034e6303e68bc97fa5234946">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.1_0c2463deebaf55c685040ff520c53896cb6dbf0e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fa736dcff406efe6012e6edc61239c47a08b40f4">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.1_fe62da08723b8b69d88247d6e01f8d583c811c29\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e51f4e3317456544915089185a40f4883addbdf1">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.1_da127814a349486a06f17a4189626246c267da4c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="babde6b32d7ab7c069a98f008b2bc795c8777fae">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.1_e323f0dc2d79d73644f2b5f41881d06919d95a86\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a3ebac72ca6befe2e900427505dbb3dd58a5ebbf">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.1_871f1d72fa4d67f98929dbc2ac8a07aff8d0b712\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9663366e1e6f9078d60c2701090c80e9fb644a36">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.1_e7c4c91e93e5f255256067fd5c726da7f6f257f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0e848984cf0810dbcc72d7e664b8b30168d35c03">
+        <dex dex="C:\Users\karlg\Documents\Hack\bagboy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.1_16b6d5b947f9bff305d2a5766fc302cb069dd46b\classes.dex" />
+    </item>
+
+</items>

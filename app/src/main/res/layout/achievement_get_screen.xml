@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#36465d"
+    tools:context="com.bagboy.bagboy.MainActivity">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:layout_marginTop="85dp"
+        android:background="#FFFFFF" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/achiev_smallest"
+        android:id="@+id/achievsmall"/>
+    <ImageButton
+        android:id="@+id/bouton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="480dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/bouton" />
+    <TextView
+        android:id="@+id/retourText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Retour"
+        android:textSize="40dp"
+        android:layout_marginTop="490dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DÉCOUVERTE"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="66dp"
+        android:layout_alignRight="@id/achievsmall"
+        android:textColor="#FFFFFF"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_marginTop="150dp"
+        android:text="Mural info"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:layout_marginTop="370dp"
+        android:text="Nearby stuff to do"/>
+</RelativeLayout>
